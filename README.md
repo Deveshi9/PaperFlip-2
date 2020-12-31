@@ -1,1 +1,2 @@
-# PaperFlip-2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
